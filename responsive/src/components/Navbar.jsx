@@ -6,6 +6,7 @@ const Navbar = () => {
         <h1>REACT.</h1>
         <ul>
             <li></li>
+            <li></li>
         </ul>
     </div>
   )
