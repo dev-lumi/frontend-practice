@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div className='text-blue-500'>
       <Card></Card>
+      <Card></Card>
       
     </div>
   )
