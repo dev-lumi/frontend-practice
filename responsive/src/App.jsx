@@ -1,16 +1,12 @@
-import React from 'react'
-import Card from './components/Card'
-import Navbar from './components/Navbar'
+import React from "react";
 
 const App = () => {
   return (
-    <div className='text-blue-500'>
-      <Navbar></Navbar>
-      <Card></Card>
-      <Card></Card>
-      
+    <div className="text-blue-500">
+      <div></div>
+      <div></div>
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
